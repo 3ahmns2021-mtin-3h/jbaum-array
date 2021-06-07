@@ -10,7 +10,7 @@ Introduction/Project summary
 WebGL, Mobile, VR Device incl. reference resolution 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+![screenshot_arrays_baumgartner](https://user-images.githubusercontent.com/72390133/120996305-7e185100-c786-11eb-9591-cc37122e0eca.JPG)
 
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions that I can run the project after cloning it
